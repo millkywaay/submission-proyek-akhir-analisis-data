@@ -1,28 +1,27 @@
-# Dashboard Sewa Sepeda"
+# Dashboard Analisis Sewa Sepeda
 
-## Preview
-![Bike Sharing Dashboard Streamlit Preview](image.png)
+## Tampilan
+![Preview Dashboard Sewa Sepeda](image.png)
 
+## Ringkasan
+Proyek ini dibuat untuk mengeksplorasi dan menganalisis data dari Bike Sharing Dataset guna memperoleh wawasan mendalam serta informasi yang bermanfaat dari pola penyewaan sepeda.
 
-## Deskripsi
-Proyek ini dirancang untuk menganalisis data dari Bike Sharing Dataset dengan tujuan menghasilkan wawasan serta informasi berharga berdasarkan hasil analisis data.
+## Cara Instalasi
 
-## Instalasi
-
-1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
+1. Unduh repository ini ke perangkat lokal dengan perintah berikut:
 
    ```shell
    git clone https://github.com/millkywaay/submission-proyek-akhir-analisis-data.git
    ```
 
-2. Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
+2. Pastikan lingkungan Python telah terpasang dan instal semua dependensi yang diperlukan dengan menjalankan perintah berikut:
 
     ```shell
     pip install -r requirements.txt
     ```
 
-## Penggunaan
-1. Masuk ke direktori proyek (Local):
+## Menjalankan Aplikasi
+1. Masuk ke dalam folder proyek:
 
     ```shell
     cd submission-proyek-akhir-analisis-data/dashboard/
@@ -30,5 +29,5 @@ Proyek ini dirancang untuk menganalisis data dari Bike Sharing Dataset dengan tu
     ```
 
 ---
-**© 2025 Khoirunnisa - Bike Sharing Analytics Dashboard**
+**© 2025 Khoirunnisa - Dashboard Analisis Sewa Sepeda**
 
